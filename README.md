@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there ✨
 
-<!--
-**3rinnn72/3rinnn72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Erin (she/hers) and I am currently studying Computer Science and Cybersecurity. 
 
-Here are some ideas to get you started:
+As I approach the end of my undergraduate studies, I am looking to expand my technical skillset by taking on more complex projects and immersing myself in meaningful discussions about the future of software development and online security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/erinparanal/)
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- C
+- HTML/CSS
+
+### Frameworks, Libraries, and Tools
+- Flask
+- React
+- Vue
+- Next.js
+- Tailwind CSS
+- VS Code
+- Docker
+
+### Data Formats
+- JSON
+- YAML
+- OpenAPI
+- REST API
