@@ -12,6 +12,7 @@ As I approach the end of my undergraduate studies, I am looking to expand my tec
 - TypeScript
 - C
 - HTML/CSS
+- Ruby
 
 ### Frameworks, Libraries, and Tools
 - Flask
